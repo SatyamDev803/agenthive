@@ -1,3 +1,3 @@
-## AgentHive – AI-Powered Project Management & Knowledge Assistant**
+## AgentHive – AI-Powered Project Management & Knowledge Assistant
 
- A full-stack AI platform leveraging multi-agent systems, LLMs, and RAG pipelines to automate task planning, document summarization, and report generation. Integrated generative AI for text & image outputs, real-time collaboration, and workflow automation (n8n/Make.com). Built with Next.js, FastAPI, PostgreSQL, FAISS/Pinecone, and deployed via Docker on AWS with CI/CD pipelines.*
+ A full-stack AI platform leveraging multi-agent systems, LLMs, and RAG pipelines to automate task planning, document summarization, and report generation. Integrated generative AI for text & image outputs, real-time collaboration, and workflow automation (n8n/Make.com). Built with Next.js, FastAPI, PostgreSQL, FAISS/Pinecone, and deployed via Docker on AWS with CI/CD pipelines.
